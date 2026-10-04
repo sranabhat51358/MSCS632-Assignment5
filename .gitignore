@@ -1,0 +1,15 @@
+# OS artifacts
+.DS_Store
+
+# Compiled C++ binaries
+cpp/ride_sharing
+*.o
+*.out
+
+# Pharo VM, images, sources, and session caches
+Pharo.image
+Pharo.changes
+*.sources
+*.log
+pharo-local/
+pharo-vm/
